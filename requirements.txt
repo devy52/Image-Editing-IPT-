@@ -1,0 +1,10 @@
+streamlit
+numpy
+skimage
+scikit-image
+scikit
+base64
+io
+PIL
+Pillow
+scipy
